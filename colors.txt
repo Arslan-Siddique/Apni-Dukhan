@@ -1,0 +1,13 @@
+
+ #1ABF68
+
+Circle colors
+#F1A614
+#554BFE
+#F83B6B
+
+BOX square
+#456BBA
+#00ACED
+#F73434
+#0077B5
